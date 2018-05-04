@@ -1,6 +1,6 @@
 ## 博客
 
-测试站点：[www.54tianzhisheng.cn](http://www.54tianzhisheng.cn/)
+测试站点：[www.yisimo.cn](http://www.yisimo.cn/)
 
 本博客使用 Github Page + Hexo 搭建的，主题采用的是 [**yilia**](https://github.com/litten/hexo-theme-yilia) ，在此感谢作者 [litten](https://github.com/litten) 。
 
@@ -139,7 +139,7 @@ friends:
   闻波: http://www.cnblogs.com/webary/
   冯兆峯: http://blog.csdn.net/zffenger
 
-aboutme: 很惭愧<br><br>只做了一点微小的工作<br>谢谢大家
+aboutme: 前端工程师
 ```
 
 注意：每个标签冒号 `:` 后面需加空格
@@ -159,7 +159,3 @@ aboutme: 很惭愧<br><br>只做了一点微小的工作<br>谢谢大家
 欢迎直接 fork 我的代码，然后在我的基础上改配置文件，这样不容易出错（因为之前自己碰到的坑大多是在这里），如果觉得我的博客文章还不错的话，欢迎点个 star 。谢谢！
 
 ***
-
-### 疑问
-
-如果搭建时遇到问题，请QQ加群：528776268 。
